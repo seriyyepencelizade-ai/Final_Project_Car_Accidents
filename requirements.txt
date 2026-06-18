@@ -1,3 +1,11 @@
 pandas
 polars
 numpy
+seaborn
+matplotlib
+plotly
+requests
+sqlalchemy
+scikit-learn
+scipy
+streamlit

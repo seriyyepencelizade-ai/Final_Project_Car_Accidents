@@ -1,3 +1,9 @@
 pandas
-polars
 numpy
+matplotlib
+seaborn
+requests
+streamlit
+sqlalchemy
+pyodbc
+scikit-learn

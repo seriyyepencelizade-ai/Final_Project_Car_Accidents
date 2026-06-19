@@ -9,3 +9,5 @@ sqlalchemy
 scikit-learn
 scipy
 streamlit
+PyMySQL
+python-dotenv
